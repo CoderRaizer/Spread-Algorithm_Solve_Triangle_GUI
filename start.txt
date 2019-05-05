@@ -1,0 +1,6 @@
+A+B+C=180:A B C
+b/sinB=c/sinC:b B c C
+S=sqrt(p*(p-a)(p-b)(p-c)):S p a b c
+p=(a+b+c)/2:p a b c
+S=(1/2)*a*ha:S a ha
+a/sinA=b/sinB:a A b BS=abc
